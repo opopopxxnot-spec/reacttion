@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #eef2f3;
+}
+
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.search input {
+  padding: 8px;
+  margin-right: 6px;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.card {
+  margin-top: 20px;
+  padding: 16px;
+  background: white;
+  border-radius: 8px;
+}
+
+.error {
+  color: red;
+}
